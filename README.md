@@ -21,11 +21,15 @@ If you want to setup the project on your own, follow the guide based on the OS y
 TBD
 1) install Docker for MacOS (https://www.docker.com)
 2) 
-![Alt text](Photos/MacOS_install/1).jpeg)
+![Alt text](Photos/MacOS_install/1.jpeg)
 
-![Alt text](https://github.com/ZanZver/DockerProject/blob/Develop/Photos/MacOS_install/1).png)
+![Alt text](https://github.com/ZanZver/DockerProject/blob/Develop/Photos/MacOS_install/1.png)
 
 ![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/MacOS_install/1).png)
+
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/abc.jpeg)
+
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/abc.jpeg)
 
 ### Windows
 TBD
