@@ -21,7 +21,8 @@ If you want to setup the project on your own, follow the guide based on the OS y
 TBD
 1) install Docker for MacOS (https://www.docker.com)
 2) 
-![Alt text](Photos/MacOS_install/.1).png "a title")
+![Alt text](Photos/MacOS_install/1).png "a title")
+
 ### Windows
 TBD
 
