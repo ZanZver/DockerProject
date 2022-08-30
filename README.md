@@ -22,7 +22,7 @@ TBD
 1) install Docker for MacOS (https://www.docker.com)
 2) 
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/abc.jpeg)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/MacOS_install/1.png)
 
 ![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/MacOS_install/2.png)
 
@@ -54,8 +54,19 @@ TBD
 TBD
 
 ### Linux
-TBD
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/1.png)
 
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/2.png)
+
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/3.png)
+
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/4.png)
+
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/5.png)
+
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/6.png)
+
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/7.png)
 ## Goals
 Here are main goals that are set, for more information have a look at projects tab.
 
