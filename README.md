@@ -48,7 +48,7 @@ TBD
 
 ![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/MacOS_install/13.png)
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/MacOS_install/14.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/MacOS_install/14.png "title")
 
 ### Windows
 TBD
