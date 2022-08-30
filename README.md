@@ -54,19 +54,19 @@ TBD
 TBD
 
 ### Linux
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/1.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/1.jpg)
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/2.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/2.jpg)
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/3.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/3.jpg)
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/4.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/4.jpg)
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/5.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/5.jpg)
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/6.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/6.jpg)
 
-![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/7.png)
+![Alt text](https://raw.githubusercontent.com/ZanZver/DockerProject/Develop/Photos/Linux_install/7.jpg)
 ## Goals
 Here are main goals that are set, for more information have a look at projects tab.
 
